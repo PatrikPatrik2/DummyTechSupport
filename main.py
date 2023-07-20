@@ -1,4 +1,5 @@
-Vector_folder_path = f'{root_dir}Vectors_2300_US/'
+Vector_folder_path = '/Vectors_2300_US/'
+
 import openai
 import os
 from dotenv import load_dotenv
