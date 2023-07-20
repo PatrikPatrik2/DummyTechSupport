@@ -2,3 +2,14 @@ fastapi[all]==0.99.0
 openai==0.27.8
 python-dotenv
 pydantic==1.10.9
+langchain #==0.0.154
+install unstructured
+install chromadb
+install Cython
+install tiktoken
+!pip install pdfminer.six
+!pip install pytesseract
+!pip install pdf2image
+!apt-get install poppler-utils
+!sudo apt install tesseract-ocr
+!pip install pydantic==1.10.8
