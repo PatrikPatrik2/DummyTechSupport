@@ -1,6 +1,5 @@
 Vector_folder_path = '/var/lib/data/Vectors_2300_US/'
-#pip3 install tiktoken
-!pip install tiktoken
+
 
 import openai
 import os
