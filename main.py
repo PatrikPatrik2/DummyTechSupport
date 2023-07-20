@@ -1,4 +1,4 @@
-Vector_folder_path = '/Vectors_2300_US/'
+Vector_folder_path = '/var/lib/data/Vectors_2300_US/'
 
 import openai
 import os
